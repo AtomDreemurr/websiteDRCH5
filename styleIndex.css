@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Determination';
+    src: url('fonts/DeterminationMono.ttf') format('truetype');
+}
+
+body{
+	font-family:"Determination";
+	color: white;
+	text-align: center;
+	background-image: url("img/battlebg.gif");
+    background-position: center;
+}
+
+button{
+	background-color: black;
+	color:white;
+	font-family:"Determination";
+}
+
+button:hover{
+	background-color: white;
+	color:black;
